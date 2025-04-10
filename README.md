@@ -48,8 +48,8 @@ I architect bulletproof digital experiences that scale to millions. With two dec
 ## 📊 GitHub Analytics  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Nani-Naeto&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 8px;"/>
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nani-Naeto&layout=compact&theme=nightowl&hide_border=true&langs_count=6" alt="Top Languages" style="border-radius: 8px;"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Nani&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 8px;"/>
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nani&layout=compact&theme=nightowl&hide_border=true&langs_count=6" alt="Top Languages" style="border-radius: 8px;"/>
 </div>
 
 <div style="margin: 20px auto; width: 80%;">
