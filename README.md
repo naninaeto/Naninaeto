@@ -2,7 +2,7 @@
 ### 💻 Senior Full-Stack Engineer | 🚀 Tech Lead 
 
 <div align="center">
-  <img src="https://via.placeholder.com/150/4a4a8a/ffffff?text=NN" width="150" style="border-radius: 50%; border: 3px solid #61dafb; box-shadow: 0 4px 12px rgba(97, 218, 251, 0.3);" alt="Nani Naeto"/>
+  <img src="../Naninaeto//image//pro.jpg" width="150" style="border-radius: 50%; border: 3px solid #61dafb; box-shadow: 0 4px 12px rgba(97, 218, 251, 0.3);" alt="Nani Naeto"/>
 </div>
 
 I architect bulletproof digital experiences that scale to millions. With two decades of turning complex problems into elegant solutions, I blend deep technical mastery with leadership to build teams that ship exceptional products.
@@ -35,11 +35,12 @@ I architect bulletproof digital experiences that scale to millions. With two dec
 
 <div style="background: #161b22; border-radius: 10px; padding: 20px; border-left: 4px solid #61dafb; margin: 20px 0;">
   
-- 🚀 **Scaled** fintech platform to handle 50K+ transactions per second  
-- 👨‍💻 **Led** 15-engineer team building AI-powered SaaS product  
-- 💡 **Patented** real-time data compression algorithm (USPTO #123456)  
-- 🧑‍🏫 **Mentored** 50+ junior developers into senior engineering roles  
-- 📈 **Optimized** AWS costs by 65% through infrastructure redesign  
+🚀 Built and deployed my first full-stack web app using React and Firebase  
+👨‍💻 Contributed to open-source projects and fixed beginner-friendly GitHub issues  
+💡 Developed a quiz generator that summarizes textbook PDFs using Python  
+🧑‍🏫 Helped peers debug and understand core programming concepts in study groups  
+📈 Continuously learning about clean code, APIs, and real-time app development
+
 
 </div>
 
