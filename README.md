@@ -28,14 +28,14 @@ I'm passionate about building real-world web and mobile applications that solve 
 ---
 
 ### 📈 GitHub Stats
-![Nani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nani-Naeto&show_icons=true&theme=radical)
+![naninaeto](https://github-readme-stats.vercel.app/api?username=Nani-Naeto&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani-Naeto&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nani-Naeto&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nani-naeto)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naninaeto)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://nani-portfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:nani.naeto@example.com)
 
