@@ -2,7 +2,7 @@
 ### 💻 Senior Full-Stack Engineer | 🚀 Tech Lead 
 
 <div align="center">
-  <img src="../Naninaeto//image//pro.jpg" width="150" style="border-radius: 50%; border: 3px solid #61dafb; box-shadow: 0 4px 12px rgba(97, 218, 251, 0.3);" alt="Nani Naeto"/>
+  <img src={pro} width="150" style="border-radius: 50%; border: 3px solid #61dafb; box-shadow: 0 4px 12px rgba(97, 218, 251, 0.3);" alt="Nani Naeto"/>
 </div>
 
 I architect bulletproof digital experiences that scale to millions. With two decades of turning complex problems into elegant solutions, I blend deep technical mastery with leadership to build teams that ship exceptional products.
