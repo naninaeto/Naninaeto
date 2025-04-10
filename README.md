@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nani Naeto!  
 ### 💻 Senior Full-Stack Engineer | 🚀 Tech Lead 
-import pro from "../Naninaeto/image/pro.jpg
+import pro from "../Naninaeto/image/pro.jpg";
 <div align="center">
   <img src={pro} width="150" style="border-radius: 50%; border: 3px solid #61dafb; box-shadow: 0 4px 12px rgba(97, 218, 251, 0.3);" alt="Nani Naeto"/>
 </div>
