@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Nani Naeto!  
-### 💻 Senior Full-Stack Engineer | 🚀 Tech Lead | 🔥 20 Years of Code Alchemy  
+### 💻 Senior Full-Stack Engineer | 🚀 Tech Lead 
 
 <div align="center">
   <img src="https://via.placeholder.com/150/4a4a8a/ffffff?text=NN" width="150" style="border-radius: 50%; border: 3px solid #61dafb; box-shadow: 0 4px 12px rgba(97, 218, 251, 0.3);" alt="Nani Naeto"/>
@@ -68,7 +68,7 @@ I architect bulletproof digital experiences that scale to millions. With two dec
   <a href="https://nani-portfolio.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:nani.naeto@example.com" style="text-decoration: none;">
+  <a href="mailto:naninaeto@example.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://calendly.com/naninaeto" style="text-decoration: none;">
