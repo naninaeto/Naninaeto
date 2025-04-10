@@ -53,7 +53,7 @@ I architect bulletproof digital experiences that scale to millions. With two dec
 </div>
 
 <div style="margin: 20px auto; width: 80%;">
-  <img src="https://streak-stats.demolab.com/?user=Nani-Naeto&theme=nightowl&hide_border=true&fire=DD2727" alt="GitHub Streak" style="border-radius: 8px;"/>
+  <img src="https://streak-stats.demolab.com/?user=Nani&theme=nightowl&hide_border=true&fire=DD2727" alt="GitHub Streak" style="border-radius: 8px;"/>
 </div>
 
 ---
