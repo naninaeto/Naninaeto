@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Nani Naeto!  
 ### 💻 CS Student | 💡 Tech Innovator | 👨‍💻 Full-Stack Wizard  
 
-![Profile Image](https://via.placeholder.com/150)  
+![Profile Image](https://web.facebook.com/photo/?fbid=1656341588114669&set=a.128294014252775&__cft__[0]=AZUW2mp7yYzKarGgkMCfJv4BG4lEDmQzaLNbhqfVm6erV6u3pHwcUM1uJLg9CEamxh2jXplD9EfUFBkbAwy32ZR6Kl--3pxed65bSUM2jobPHChGL7OwhMT0l9aBlbX87wQwpJZsy1Dn3noT9mZ3czd9qESAx6hbjdKsvnI2BAU-5g&__tn__=~H-R)  
 *Insert your profile image here (e.g., a professional headshot or a cool avatar) via a URL or local file when implementing this on GitHub! Recommended size: 150x150px.*
 
 I’m a passionate developer crafting real-world web and mobile solutions that make an impact. I thrive on tackling challenges, mastering cutting-edge tech, and delivering pixel-perfect, scalable code—one commit at a time.
