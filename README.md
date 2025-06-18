@@ -78,11 +78,6 @@ I architect bulletproof digital experiences that scale to millions. With two dec
 
 ---
 
-### 🔗 Live Site
-
-👉 Visit my portfolio here: [nani-portfolio.vercel.app](https://nani-portfolio-chi-brown-zm85ir2umr.vercel.app)
-
-
 ---
 
 ## 💡 Leadership Philosophy  
