@@ -59,25 +59,29 @@ I architect bulletproof digital experiences that scale to millions. With two dec
 
 ## 🌐 Connect With Me  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/naninaeto" style="text-decoration: none;">
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naninaeto">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://nani-portfolio.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="https://nani-portfolio-chi-brown-zm85ir2umr.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
   </a>
-  ## 🔗 My Live Portfolio
-
-Check out my portfolio here:  
-👉 [https://nani-portfolio-chi-brown-zm85ir2umr.vercel.app](https://nani-portfolio-chi-brown-zm85ir2umr.vercel.app)
-
-  <a href="mailto:naninaeto@example.com" style="text-decoration: none;">
+  <a href="mailto:naninaeto@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://calendly.com/naninaeto" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Schedule-0082C9?style=for-the-badge&logo=google-meet&logoColor=white" alt="Schedule Meeting"/>
+  <a href="https://calendly.com/naninaeto">
+    <img src="https://img.shields.io/badge/Schedule%20Meeting-0082C9?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting"/>
   </a>
-</div>
+</p>
+
+---
+
+### 🔗 Live Site
+
+👉 Visit my portfolio here: [nani-portfolio.vercel.app](https://nani-portfolio-chi-brown-zm85ir2umr.vercel.app)
+
 
 ---
 
