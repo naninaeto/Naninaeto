@@ -66,6 +66,11 @@ I architect bulletproof digital experiences that scale to millions. With two dec
   <a href="https://nani-portfolio.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
+  ## 🔗 My Live Portfolio
+
+Check out my portfolio here:  
+👉 [https://nani-portfolio-chi-brown-zm85ir2umr.vercel.app](https://nani-portfolio-chi-brown-zm85ir2umr.vercel.app)
+
   <a href="mailto:naninaeto@example.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
